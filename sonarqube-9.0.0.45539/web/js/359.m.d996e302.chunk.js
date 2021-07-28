@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[359],{1820:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return a}));var r=n(2),i=n(966);function a(e){return r.createElement(i.a,Object.assign({isFavorite:!0},e))}},966:function(e,t,n){"use strict";var r=n(325),i=n(333),a=n(327);t.a=Object(r.b)(e=>({currentUser:Object(a.getCurrentUser)(e),qualifiers:Object(a.getAppState)(e).qualifiers}))(Object(i.lazyLoadComponent)(()=>Promise.all([n.e(0),n.e(2),n.e(4),n.e(5),n.e(269)]).then(n.bind(null,1162))))}}]);
+//# sourceMappingURL=359.m.d996e302.chunk.js.map
